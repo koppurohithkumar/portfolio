@@ -10,7 +10,7 @@ const Contact = () => {
     {
       logo: "https://img.icons8.com/?size=100&id=53435&format=png&color=FFFFFF",
       type: "Mail",
-      data: "koppurohithkumar37@gmail.com<",
+      data: "koppurohithkumar37@gmail.com",
     },
   ];
   return (
