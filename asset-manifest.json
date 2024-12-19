@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/rohith-koppu/static/css/main.f2fbde68.css",
-    "main.js": "/rohith-koppu/static/js/main.9db62d2d.js",
+    "main.js": "/rohith-koppu/static/js/main.e07734f0.js",
     "static/media/about.jpg": "/rohith-koppu/static/media/about.0cbec54f37f522ea1a04.jpg",
     "static/media/velocity.png": "/rohith-koppu/static/media/velocity.d4e271794a0d99631a1c.png",
     "static/media/shopping.png": "/rohith-koppu/static/media/shopping.fd4a2c7ef40d1a19a814.png",
     "static/media/profile.jpg": "/rohith-koppu/static/media/profile.6216f3e4121f0a21dcc8.jpg",
     "index.html": "/rohith-koppu/index.html",
     "main.f2fbde68.css.map": "/rohith-koppu/static/css/main.f2fbde68.css.map",
-    "main.9db62d2d.js.map": "/rohith-koppu/static/js/main.9db62d2d.js.map"
+    "main.e07734f0.js.map": "/rohith-koppu/static/js/main.e07734f0.js.map"
   },
   "entrypoints": [
     "static/css/main.f2fbde68.css",
-    "static/js/main.9db62d2d.js"
+    "static/js/main.e07734f0.js"
   ]
 }
