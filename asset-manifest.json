@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rohith-koppu/static/css/main.f2fbde68.css",
-    "main.js": "/rohith-koppu/static/js/main.e07734f0.js",
-    "static/media/about.jpg": "/rohith-koppu/static/media/about.0cbec54f37f522ea1a04.jpg",
-    "static/media/velocity.png": "/rohith-koppu/static/media/velocity.d4e271794a0d99631a1c.png",
-    "static/media/shopping.png": "/rohith-koppu/static/media/shopping.fd4a2c7ef40d1a19a814.png",
-    "static/media/profile.jpg": "/rohith-koppu/static/media/profile.6216f3e4121f0a21dcc8.jpg",
-    "index.html": "/rohith-koppu/index.html",
-    "main.f2fbde68.css.map": "/rohith-koppu/static/css/main.f2fbde68.css.map",
-    "main.e07734f0.js.map": "/rohith-koppu/static/js/main.e07734f0.js.map"
+    "main.css": "/portfolio/static/css/main.f2fbde68.css",
+    "main.js": "/portfolio/static/js/main.bcb4ddaf.js",
+    "static/media/about.jpg": "/portfolio/static/media/about.0cbec54f37f522ea1a04.jpg",
+    "static/media/velocity.png": "/portfolio/static/media/velocity.d4e271794a0d99631a1c.png",
+    "static/media/shopping.png": "/portfolio/static/media/shopping.fd4a2c7ef40d1a19a814.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.6216f3e4121f0a21dcc8.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.f2fbde68.css.map": "/portfolio/static/css/main.f2fbde68.css.map",
+    "main.bcb4ddaf.js.map": "/portfolio/static/js/main.bcb4ddaf.js.map"
   },
   "entrypoints": [
     "static/css/main.f2fbde68.css",
-    "static/js/main.e07734f0.js"
+    "static/js/main.bcb4ddaf.js"
   ]
 }
